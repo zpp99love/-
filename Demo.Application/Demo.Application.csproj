@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dome.Domain\Dome.Domain.csproj" />
+    <ProjectReference Include="..\实现类.Data.EF\实现类.Data.EF.csproj" />
+    <ProjectReference Include="..\实现类.Data.NH\实现类.Data.NH.csproj" />
+  </ItemGroup>
+
+</Project>
