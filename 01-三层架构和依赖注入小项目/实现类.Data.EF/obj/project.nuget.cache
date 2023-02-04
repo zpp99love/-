@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BFwnjzxKRkGevUhvKixZRI6206+Ni8bXXkceVNuE8pyXbmH5gmoR+UVXbrE48VGXhKca+4mp5vThLNdOuKLDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\张跑跑\\Desktop\\github\\DependencyInjection\\DependencyInjection\\实现类.Data.EF\\实现类.Data.EF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\张跑跑\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
