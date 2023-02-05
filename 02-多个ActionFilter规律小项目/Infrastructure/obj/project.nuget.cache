@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgzaeYiccLYq86HWdG20ZbEF4MJk60siKT4Q7d1njCT3Hm4NRR2DWslJv8RvN896IrawKWQezTny3+vpbFGqHg==",
+  "dgSpecHash": "LpcElYQuSJyiDfGvCx1zD1qLfhRKrKpz9RFXEasDWnERTVZAefhjf2esc4dvjkfm4SExsXouy6zcEDuZ7M3rPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\张跑跑\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\张跑跑\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

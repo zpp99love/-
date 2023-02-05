@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\ActionFilter\\ActionFilter.csproj": {}
+    "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\ActionFilter\\ActionFilter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\ActionFilter\\ActionFilter.csproj": {
+    "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\ActionFilter\\ActionFilter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\ActionFilter\\ActionFilter.csproj",
+        "projectUniqueName": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\ActionFilter\\ActionFilter.csproj",
         "projectName": "ActionFilter",
-        "projectPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\ActionFilter\\ActionFilter.csproj",
+        "projectPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\ActionFilter\\ActionFilter.csproj",
         "packagesPath": "C:\\Users\\张跑跑\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\ActionFilter\\obj\\",
+        "outputPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\ActionFilter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\张跑跑\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多方法过滤器规律小项目\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\02-多个ActionFilter规律小项目\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,12 @@
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\bin\Debug\net5.0\Application.dll
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.dll
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\张跑跑\Desktop\github\NetCore\04-ActionFilter自动启动事务小项目\Application\obj\Debug\net5.0\Application.pdb
