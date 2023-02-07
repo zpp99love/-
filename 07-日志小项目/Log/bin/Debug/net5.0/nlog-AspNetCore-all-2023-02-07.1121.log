@@ -1,0 +1,1 @@
+2023-02-07 21:21:58.8358|0|TRACE|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HMO91OSOG84H" sending HEADERS frame for stream ID 1 with length 45 and flags END_STREAM, END_HEADERS 

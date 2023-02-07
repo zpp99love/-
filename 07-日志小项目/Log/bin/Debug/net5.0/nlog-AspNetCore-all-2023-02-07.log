@@ -1,0 +1,1 @@
+2023-02-07 21:21:58.8485|0|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:5001/WeatherForecast - - - 200 0 - 969.3571ms 

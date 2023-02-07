@@ -1,0 +1,390 @@
+2023-02-06 22:44:07.4720|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:07.4908|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:07.4908|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:07.5041|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:07.5197|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:07.6255|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:07.6300|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.3805|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.3970|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.3970|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.4104|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.4300|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.4647|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:09.4854|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.7564|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.7707|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.7707|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.7891|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.7891|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.8331|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:11.8331|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.2403|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.2544|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.2544|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.2700|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.2918|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.3345|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:15.3481|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.7858|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.8018|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.8018|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.8235|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.8341|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.8731|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:20.8798|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:24.9253|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:24.9253|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:24.9412|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:24.9624|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:24.9744|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:25.0155|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:25.0197|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.6485|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.6485|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.6647|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.6647|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.6764|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.7237|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:44:27.7237|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:32.9768|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:32.9901|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:32.9901|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:33.0220|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:33.0376|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:33.0771|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:33.0827|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.0202|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.0398|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.0556|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.0856|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.1224|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.1713|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:34.1759|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.0369|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.0369|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.0584|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.0709|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.0832|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.1282|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:35.1298|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.6766|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.6766|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.6981|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.7077|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.7077|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.7610|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:37.7729|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.3959|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.3959|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.4111|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.4317|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.4441|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.4846|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:46:40.4973|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:55:48.8223|0|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStopping
+2023-02-06 22:56:45.8454|0|WARN|Microsoft.AspNetCore.Server.Kestrel|Unable to bind to http://localhost:5000 on the IPv4 loopback interface: '以一种访问权限不允许的方式做了一个访问套接字的尝试。'. |url: |action: |Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync
+2023-02-06 22:56:58.4015|0|WARN|Microsoft.AspNetCore.Server.Kestrel|Unable to bind to http://localhost:5000 on the IPv4 loopback interface: '以一种访问权限不允许的方式做了一个访问套接字的尝试。'. |url: |action: |Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync
+2023-02-06 22:56:58.4283|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-02-06 22:56:58.4799|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-02-06 22:56:58.5650|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 22:56:58.6004|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 22:56:58.9095|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 22:58:38.6967|0|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStopping
+2023-02-06 22:59:45.9030|0|WARN|Microsoft.AspNetCore.Server.Kestrel|Unable to bind to http://localhost:5000 on the IPv4 loopback interface: '以一种访问权限不允许的方式做了一个访问套接字的尝试。'. |url: |action: |Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync
+2023-02-06 22:59:45.9263|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-02-06 22:59:45.9491|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-02-06 22:59:45.9775|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 22:59:45.9940|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 22:59:46.0074|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 22:59:54.8368|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:59:54.8514|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:59:54.8769|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:59:54.9025|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:59:54.9183|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:59:55.0189|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 22:59:55.0243|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:01:46.0276|0|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStopping
+2023-02-06 23:02:01.6240|0|WARN|Microsoft.AspNetCore.Server.Kestrel|Unable to bind to http://localhost:5000 on the IPv4 loopback interface: '以一种访问权限不允许的方式做了一个访问套接字的尝试。'. |url: |action: |Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync
+2023-02-06 23:02:01.6641|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-02-06 23:02:01.6812|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2023-02-06 23:02:01.7473|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 23:02:01.7742|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 23:02:01.7909|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2023-02-06 23:02:09.6654|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:09.6654|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:09.6981|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:09.7156|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:09.7320|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:09.8723|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:09.9011|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger() in C:\Users\张跑跑\Desktop\github\NetCore\07-日志小项目\Log\Controllers\WeatherForecastController.cs:line 35|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.3368|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.3769|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.4059|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.4485|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.4787|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.5546|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger()|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:28.5780|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger()|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.3708|0|DEBUG|string|连接数据库成功 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.3876|0|DEBUG|string|开始查找数据 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.3970|0|WARN|string|查找失败..重试第一次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.3970|0|WARN|string|查找失败..重试第二次 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.4186|0|ERROR|string|失败 |url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.4585|0|ERROR|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger()|url: |action: |Log.Controllers.WeatherForecastController.ILogger
+2023-02-06 23:02:33.4605|0|WARN|string|异常对象 System.IO.DirectoryNotFoundException: Could not find a part of the path 'G:\f.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Log.Controllers.WeatherForecastController.ILogger()|url: |action: |Log.Controllers.WeatherForecastController.ILogger
