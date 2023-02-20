@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWoBRolao/I6gpz7yxgDRyKJh64KckMfX2I5VaEmOFEpIfBteWKO7hJN07Gtag5JPObjb1MNw9Peq0deNgso3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\12-托管服务\\HostedService\\HostedService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\张跑跑\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
