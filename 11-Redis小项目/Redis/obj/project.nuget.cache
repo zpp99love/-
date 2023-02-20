@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQK1B2zyybc70DHwuy8HCQUMmbhpNcXc1geEo/UREavvsA2hGDVL6ZLXTOiHvFRP7/jo8kMI2LpSt5tABBbhVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\11-Redis小项目\\Redis\\Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\张跑跑\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\servicestack.common\\6.6.0\\servicestack.common.6.6.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\servicestack.interfaces\\6.6.0\\servicestack.interfaces.6.6.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\servicestack.redis\\6.6.0\\servicestack.redis.6.6.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\servicestack.text\\6.6.0\\servicestack.text.6.6.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
