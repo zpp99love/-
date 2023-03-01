@@ -25,3 +25,6 @@ C:\Users\张跑跑\Desktop\net\Cache\Cache.Api\obj\Debug\net6.0\refint\Cache.Api
 C:\Users\张跑跑\Desktop\net\Cache\Cache.Api\obj\Debug\net6.0\Cache.Api.pdb
 C:\Users\张跑跑\Desktop\net\Cache\Cache.Api\obj\Debug\net6.0\Cache.Api.genruntimeconfig.cache
 C:\Users\张跑跑\Desktop\net\Cache\Cache.Api\obj\Debug\net6.0\ref\Cache.Api.dll
+C:\Users\张跑跑\Desktop\github\NetCore\08-Cache缓存小项目\Cache.Api\obj\Debug\net6.0\Cache.Api.dll
+C:\Users\张跑跑\Desktop\github\NetCore\08-Cache缓存小项目\Cache.Api\obj\Debug\net6.0\refint\Cache.Api.dll
+C:\Users\张跑跑\Desktop\github\NetCore\08-Cache缓存小项目\Cache.Api\obj\Debug\net6.0\Cache.Api.pdb

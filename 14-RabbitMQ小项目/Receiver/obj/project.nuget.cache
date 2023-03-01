@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+dVi6dUJbGA25rmDz31uVMlRR45R/0M1K4NZXjdZzs/VenKDfzPQ1MjQ/Jd5pwa0q4Pn6NQc9EImkKFU3+Kaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\张跑跑\\Desktop\\github\\NetCore\\14-RabbitMQ小项目\\Receiver\\Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\张跑跑\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\张跑跑\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

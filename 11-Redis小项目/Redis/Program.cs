@@ -84,7 +84,7 @@ ZSetTest zsetTest = new ZSetTest();
 //批量
 //zsetTest.more();    
 //交集
-zsetTest.StoreIntersectFromSortedSets();
+//zsetTest.StoreIntersectFromSortedSets();
 
 #endregion
 
